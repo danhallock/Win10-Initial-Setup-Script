@@ -1,0 +1,14 @@
+# Sets some things to my personal preferences.
+
+EnableRemoteDesktop
+EnableStorageSense
+UninstallXPSPrinter
+RemoveFaxPrinter
+
+InstallLinuxSubsystem
+InstallHyperV
+EnableTitleBarColor
+EnableDarkTheme
+EnableNavPaneExpand
+ShowUserFolderOnDesktop
+SetTaskbarCombineWhenFull

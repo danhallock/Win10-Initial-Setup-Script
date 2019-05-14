@@ -1,0 +1,15 @@
+# Removed on a fresh install, but I consider these legit
+# enough that if a user has reinstalled them, I leave them
+# in the future.
+
+34791E63.CanonInkjetPrintUtility
+4DF9E0F8.Netflix
+7EE7776C.LinkedInforWindows
+9E2F88E3.Twitter
+CAF9E577.Plex
+D5EA27B7.Duolingo-LearnLanguagesforFree
+Facebook.Facebook
+Microsoft.MinecraftUWP
+Microsoft.SkypeApp
+Microsoft.WindowsMaps
+Microsoft.XboxApp
